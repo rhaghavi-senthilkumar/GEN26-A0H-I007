@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I007
 ### Team Details
-#### **Team Name** Ryvex <br/>
+**Team Name:** Ryvex
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme     |   H/D          |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:---------------------------------:|:--------------:|
